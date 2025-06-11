@@ -1,4 +1,4 @@
-# AI Code Review Tasks (n = 60)
+# AI Code Review Tasks (n = 30)
 
 This repository contains 60 standardized Python code review tasks developed for the Master’s thesis:
 
@@ -27,5 +27,5 @@ The dataset was used in a controlled study involving senior/principal developers
 ├── Task_01_BugDetection.py
 ├── Task_02_BugDetection.py
 ...
-├── Task_60_Security.py
+├── Task_30_CodeSmells.py
 README.md
