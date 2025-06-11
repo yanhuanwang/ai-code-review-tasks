@@ -1,6 +1,6 @@
 # AI Code Review Tasks (n = 30)
 
-This repository contains 60 standardized Python code review tasks developed for the Master’s thesis:
+This repository contains 30 standardized Python code review tasks developed for the Master’s thesis:
 
 **“The Impact of AI-Driven Code Review on Developer Productivity and Software Quality”**
 Author: Chengkai Yan
